@@ -1,8 +1,8 @@
 # Site settings
-title: Rifyll
+title:
 email: somename@somedomain.com
 description: "Just Another Jekyll Theme"
-logo_location: "https://placeholdit.imgix.net/~text?txtsize=30&bg=F8F8F8&txtclr=002E62&txt=LOGO&w=100&h=100"
+logo_location: "https://learnvest.global.ssl.fastly.net/exp-assets/common-assets/img/brand/logo/inline-white.svg?1471552778&w=100&h=100"
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
